@@ -1,0 +1,16 @@
+C:\Users\JoãoPaulodosSantosSa\source\repos\Target-Testes\Target-Testes\bin\Debug\net5.0\Target-Testes.exe
+C:\Users\JoãoPaulodosSantosSa\source\repos\Target-Testes\Target-Testes\bin\Debug\net5.0\Target-Testes.deps.json
+C:\Users\JoãoPaulodosSantosSa\source\repos\Target-Testes\Target-Testes\bin\Debug\net5.0\Target-Testes.runtimeconfig.json
+C:\Users\JoãoPaulodosSantosSa\source\repos\Target-Testes\Target-Testes\bin\Debug\net5.0\Target-Testes.runtimeconfig.dev.json
+C:\Users\JoãoPaulodosSantosSa\source\repos\Target-Testes\Target-Testes\bin\Debug\net5.0\Target-Testes.dll
+C:\Users\JoãoPaulodosSantosSa\source\repos\Target-Testes\Target-Testes\bin\Debug\net5.0\ref\Target-Testes.dll
+C:\Users\JoãoPaulodosSantosSa\source\repos\Target-Testes\Target-Testes\bin\Debug\net5.0\Target-Testes.pdb
+C:\Users\JoãoPaulodosSantosSa\source\repos\Target-Testes\Target-Testes\obj\Debug\net5.0\Target-Testes.csproj.AssemblyReference.cache
+C:\Users\JoãoPaulodosSantosSa\source\repos\Target-Testes\Target-Testes\obj\Debug\net5.0\Target-Testes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoãoPaulodosSantosSa\source\repos\Target-Testes\Target-Testes\obj\Debug\net5.0\Target-Testes.AssemblyInfoInputs.cache
+C:\Users\JoãoPaulodosSantosSa\source\repos\Target-Testes\Target-Testes\obj\Debug\net5.0\Target-Testes.AssemblyInfo.cs
+C:\Users\JoãoPaulodosSantosSa\source\repos\Target-Testes\Target-Testes\obj\Debug\net5.0\Target-Testes.csproj.CoreCompileInputs.cache
+C:\Users\JoãoPaulodosSantosSa\source\repos\Target-Testes\Target-Testes\obj\Debug\net5.0\Target-Testes.dll
+C:\Users\JoãoPaulodosSantosSa\source\repos\Target-Testes\Target-Testes\obj\Debug\net5.0\ref\Target-Testes.dll
+C:\Users\JoãoPaulodosSantosSa\source\repos\Target-Testes\Target-Testes\obj\Debug\net5.0\Target-Testes.pdb
+C:\Users\JoãoPaulodosSantosSa\source\repos\Target-Testes\Target-Testes\obj\Debug\net5.0\Target-Testes.genruntimeconfig.cache

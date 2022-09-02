@@ -1,35 +1,19 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Target_Testes.VelocidadeMedia
 {
-   public class CalculoVM
+    public class CalculoVM
     {
-        public void EquacaoHoraria()
+        public static void EquacaoHoraria()
         {
-            var v2 = 0;
-            var t = 0;
-            var v1 = 0;
-            var x1 = v1 * t;
-            var tso = 0;
+            var Tincial = 100 / 80;
+            var T = 1.25 + 0.17;
 
-            var x2 = 100 - v2 * t;
+            var VelocidadeMedia = 100 / T;
 
-            tso = 100 / 80;
+            var PontoCruzamento = 110 * 100 / 110 + 70.6;
 
-            v2 = 100 / 42;
-
-            t = x1 / v1;
-
-            t = x2 - 100 / -v2;
-
-          var  x = v1 * 100 / v1 + v2;
+            Console.WriteLine($"Essa é a distância da cidade de Ribeirão Preto {PontoCruzamento}");
         }
-
-
     }
-
 }

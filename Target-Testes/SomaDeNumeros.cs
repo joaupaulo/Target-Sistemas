@@ -8,7 +8,7 @@ namespace Target_Testes
 {
    public class SomaDeNumeros
     {
-        public void SomaNum()
+        public static void SomaNum()
         {
             int Indice = 13, Soma = 0, K = 0;
 

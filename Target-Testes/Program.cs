@@ -1,4 +1,6 @@
 ﻿using System;
+using Target_Testes.Faturamento;
+using Target_Testes.VelocidadeMedia;
 
 namespace Target_Testes
 {
@@ -6,7 +8,11 @@ namespace Target_Testes
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           CalculoFaturamento.CalcularFaturamentoMensal();
+            CalculoFaturamentoMensal.CalculoFaturamentoMensalEstado();
+            SomaDeNumeros.SomaNum();
+            Fibonnaci.FibonnaciSequencie();
+            CalculoVM.EquacaoHoraria();
         }
     }
 }
